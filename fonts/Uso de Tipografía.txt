@@ -1,0 +1,7 @@
+
+Fuentes:
+Roboto Bold Condensed (Titulos H1 H2 H3)
+Roboto Black (VIDEOS - FOTOS)
+Roboto Medium (Textos -  Footer - Formulario)
+
+
